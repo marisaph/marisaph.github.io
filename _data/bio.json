@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Marisa Pangan-Hosokawa",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "picture": "https://techfolios.github.io/waseda.jpeg",
+    "email": "marisaph@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://marisaph.github.io",
+    "summary": "I am studying for a B.S. in Marketing, International Business, and MIS at Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "marisaph",
         "url": "http://github.com/changeme"
       },
       {
@@ -27,12 +27,12 @@
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "",
         "url": "http://instagram.com/changeme"
       }
     ]
