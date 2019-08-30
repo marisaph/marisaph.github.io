@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Introducing Myself.md 
+title: Introducing Myself
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-30
 ---
