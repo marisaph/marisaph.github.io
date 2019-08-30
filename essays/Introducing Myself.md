@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Introducing Myself
 date: 2019-08-30
-lables:
+lable:
   - ITM 352
 ---
 
