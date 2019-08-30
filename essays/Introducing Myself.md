@@ -2,8 +2,9 @@
 layout: essay
 type: essay
 title: Introducing Myself
-# All dates must be YYYY-MM-DD format!
 date: 2019-08-30
+lables:
+  - ITM 352
 ---
 
 My name is Marisa Pangan-Hosokawa. I am a junior at the Shidler College of Business. Before attending the University of Hawaii, I graduated from Moanalua High School
